@@ -1,0 +1,12 @@
+[
+	{
+		"title":"RTSD-project-2015",
+		"path":"video/RTSD-project-2015.mp4", 
+        "description":"Real time blackjack I made with another student."
+	},
+    {
+		"title":"big_buck_bunny",
+		"path":"video/big_buck_bunny.webm", 
+        "description":"Video is the first minute from the cc-by licenced “open movie” Big Buck Bunny https://peach.blender.org/"
+	}
+]
